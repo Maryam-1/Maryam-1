@@ -6,8 +6,8 @@
 
 # Welcome to My GitHub Profile!
 
-## 🚀 About Me
-I'm Maryam, a passionate Data Scientist with a Master’s degree in Applied Data Science from the University of Essex. My journey in data science is driven by a fervent interest in solving complex data challenges. I've honed my skills in data analysis, machine learning, and statistical modeling to uncover insights and drive data-driven decisions.
+## About Me
+I'm Maryam, a passionate Data Scientist with a Master’s degree in Applied Data Science from the University of Essex. My journey in data science is driven by solving complex data challenges. I've honed my skills in data analysis, machine learning, and statistical modeling to uncover insights and drive data-driven decisions.
 
 👯 I’m on the lookout to collaborate on open-source projects or tackle challenging datasets.
 
